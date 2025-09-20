@@ -1,6 +1,14 @@
  Core Purpose
 This MATLAB-based Propeller Analysis Toolchain is a comprehensive reverse engineering solution that transforms raw 3D scan data of propellers into precise engineering measurements, CAD models, and detailed analysis reports.
 
+Installation
+Requirements: MATLAB R2020b or newer with the Computer Vision, Curve Fitting, and Statistics toolboxes.
+
+Download all module files (*.m) into a single directory.
+
+Add the directory to your MATLAB path.
+
+
 Key Capabilities
 
 1. 3D Scan Processing
